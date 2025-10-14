@@ -6,5 +6,5 @@ This is a lightweight Spring Boot project designed for use in technical intervie
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/springboot-interview-api.git
+   git clone https://github.com/tharover/springboot-interview-api.git
    cd springboot-interview-api
