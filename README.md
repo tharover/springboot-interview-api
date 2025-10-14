@@ -199,3 +199,9 @@ This project is designed to facilitate discussions on:
    - Caching strategies
    - Rate limiting
    - Consistent endpoint naming (/items vs /item)
+## Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-org/springboot-interview-api.git
+   cd springboot-interview-api
