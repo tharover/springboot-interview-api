@@ -185,6 +185,7 @@ mvn test
 This project is designed to facilitate discussions on:
 
 1. **REST API Design** - RESTful principles, endpoint naming conventions
+   - Note: The POST endpoint uses `/api/item` while others use `/api/items` - this can be discussed as an API consistency topic
 2. **Validation** - Bean validation, custom validators
 3. **Error Handling** - Global exception handlers, appropriate HTTP status codes
 4. **Filtering** - Query parameters, dynamic filtering
@@ -197,3 +198,4 @@ This project is designed to facilitate discussions on:
    - Swagger/OpenAPI documentation
    - Caching strategies
    - Rate limiting
+   - Consistent endpoint naming (/items vs /item)
