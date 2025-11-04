@@ -1,7 +1,5 @@
 # ItemService Interview Exercise
 
-## Overview
-
 This exercise will help us assess your Java and Spring skills by extending an existing REST API for managing grocery items. You will add support for item categories and sorting.
 
 
@@ -31,9 +29,6 @@ Please assign the following categories to each sample item:
 | Rice              | Long grain white rice 5lb bag        | Pantry    |
 | Pasta             | Spaghetti pasta 16oz                 | Pantry    |
 
-
----
-
 ### 2. Enable Sorting
 
 - Add support for sorting items by name, price, or quantity.
@@ -46,13 +41,9 @@ Example Sorting Parameters
 - `sortBy=name` or `sortBy=price` or `sortBy=quantity`
 - `sortOrder=asc` or `sortOrder=desc`
 
----
-
 ### 3. Update or Add Tests
 
 - Update or add tests to verify category filtering and sorting.
-
----
 
 ### 4. Hints
 
