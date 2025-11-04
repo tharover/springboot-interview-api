@@ -11,7 +11,7 @@ import java.util.List;
 
 // ***********************************************************************************************
 // INTERVIEW EXERCISE!
-// 1) Add endpoint/query parameter to support sorting
+// TODO: Add endpoint/query parameter to support sorting
 // ***********************************************************************************************
 
 @RestController

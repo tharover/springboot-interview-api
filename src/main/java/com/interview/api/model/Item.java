@@ -8,8 +8,8 @@ import java.util.Objects;
 
 // ***********************************************************************************************
 // INTERVIEW EXERCISE!
-// 1) Add a 'category' field to this class (e.g., String or Enum)
-// 2) Update constructors, getters, setters, and toString as needed
+// TODO: Add a 'category' field to this class (e.g., String or Enum)
+// TODO: Update constructors, getters, setters, and toString as needed
 // ***********************************************************************************************
 
 public class Item {

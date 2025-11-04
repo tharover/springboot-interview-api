@@ -26,7 +26,7 @@ import com.interview.api.service.ItemService;
 
 // ***********************************************************************************************
 // INTERVIEW EXERCISE!
-// 1) Optional - Add/modify tests to verify category filtering and sorting
+// TODO: Optional - Add/modify tests to verify category filtering and sorting
 // ***********************************************************************************************
 
 @WebMvcTest(ItemController.class)

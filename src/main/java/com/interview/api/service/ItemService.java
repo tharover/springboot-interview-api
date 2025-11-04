@@ -12,9 +12,9 @@ import java.util.stream.Collectors;
 
 // ***********************************************************************************************
 // INTERVIEW EXERCISE!
-// 1) Update sample items to include category
-// 2) Add a method to filter items by category
-// 3) Add a method to return items sorted by name, price, or quantity
+// TODO: Update sample items to include category
+// TODO: Add a method to filter items by category
+// TODO: Add a method to return items sorted by name, price, or quantity
 //       Use a parameter to specify the sort field and direction
 // ***********************************************************************************************
 
