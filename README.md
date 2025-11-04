@@ -33,6 +33,11 @@ Please assign the following categories to each sample item:
 
 
 ---
+<<<<<<< HEAD
+=======
+
+---
+>>>>>>> 777f43fab90b6c64363e071c296bc8fd59529912
 ### 2. Enable Sorting
 
 - Add support for sorting items by name, price, or quantity.
