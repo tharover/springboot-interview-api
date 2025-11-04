@@ -33,6 +33,7 @@ Please assign the following categories to each sample item:
 
 
 ---
+
 ### 2. Enable Sorting
 
 - Add support for sorting items by name, price, or quantity.
@@ -46,7 +47,6 @@ Example Sorting Parameters
 - `sortOrder=asc` or `sortOrder=desc`
 
 ---
-
 
 ### 3. Update or Add Tests
 
